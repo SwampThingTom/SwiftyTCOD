@@ -1,0 +1,4 @@
+module tcod {
+    umbrella header "swiftytcod_tcod.h"
+    link "/usr/local/lib/libtcod.dylib"
+}
